@@ -8,9 +8,7 @@ The pronunciation of the alphabet is different.
 |Українська|Іспанська|Англійська|
 |:----:|:------:|:-----:|
 |А|A|Ă|
-|ei|ei|Ā|
 |Е|E|Ĕ|
-|ai|ai|Ī|
 |И|—|—|
 |І|I|Ē|
 |О|O|Ō|
