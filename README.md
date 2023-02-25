@@ -7,7 +7,7 @@ plugins:
 Some notes on English/Ukrainian
 
 
-The pronunciation of the alphabet is different.
+The pronunciation of the alphabet is different..
 
 #### Голосні / Vowels
 |Українська|Іспанська|Англійська|
