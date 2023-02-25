@@ -1,3 +1,6 @@
+---
+theme: architect
+---
 # Help with Pronunciation of English for Ukrainians
 Some notes on English/Ukrainian
 
