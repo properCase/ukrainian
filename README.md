@@ -1,5 +1,7 @@
 ---
-theme: leap-day
+remote_theme: pages-themes/leap-day@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 ---
 # Help with Pronunciation of English for Ukrainians
 Some notes on English/Ukrainian
