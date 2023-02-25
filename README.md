@@ -1,5 +1,5 @@
 ---
-remote_theme: pages-themes/cayman@v0.2.0
+theme: leap-day
 ---
 # Help with Pronunciation of English for Ukrainians
 Some notes on English/Ukrainian
